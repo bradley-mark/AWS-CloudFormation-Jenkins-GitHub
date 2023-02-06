@@ -69,9 +69,8 @@ JSON creates a bucket and automatically assigns a bucket name and outputs the bu
 
 ![image](https://user-images.githubusercontent.com/91480603/217097167-90aa8284-7d11-4eff-8567-be60433d37c2.png)
 
-For credentials use **Kind** - **Username with password** - use username and password use Personal Access Token
+For credentials use **Kind** - **Username with password** - password = Personal Access Token
 
-![image](https://user-images.githubusercontent.com/91480603/217097565-a6606fb1-6e8d-49dd-8b29-5a12c9240d56.png)
 
 
 
