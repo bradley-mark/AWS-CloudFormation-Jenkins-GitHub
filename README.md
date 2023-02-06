@@ -23,4 +23,6 @@ simplests3cft.json
 }
 ```
 
+JSON creates a bucket and automatically assigns a bucket name and outputs the bucket name
+
 
