@@ -47,7 +47,7 @@ JSON creates a bucket and automatically assigns a bucket name and outputs the bu
 # Configure Jenkins to use GitHib
 
 1. Jenkins > Dashboard > Manage Jenkins > Configure System
-2. **GitHub** **+Add** *Jenkins* **Kind is Secret text** 
+2. **GitHub** **+Add** *Jenkins* **Kind** is **Secret text** 
 
 **Secret** = token
 
