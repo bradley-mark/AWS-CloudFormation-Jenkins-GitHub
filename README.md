@@ -92,12 +92,18 @@ For credentials use **Kind** - **Username with password** - password = Personal 
 
 ![image](https://user-images.githubusercontent.com/91480603/217099288-420bae4e-7fa3-4066-aa73-2506721bd58d.png)
 
-6. Review **Console Output**
+6. Review **Status**
+
+![image](https://user-images.githubusercontent.com/91480603/217099734-a6961553-ca88-4d97-8f2a-f50b750da66d.png)
+
+7. Review **Console Output**
 
 ![image](https://user-images.githubusercontent.com/91480603/217099508-59533aa2-ec1d-4c91-b4dc-e2a57fd6c821.png)
 
-7. Review **Status**
+![image](https://user-images.githubusercontent.com/91480603/217099971-46e9882c-e253-4bab-9689-5fc76dcf472d.png)
 
-![image](https://user-images.githubusercontent.com/91480603/217099734-a6961553-ca88-4d97-8f2a-f50b750da66d.png)
+
+
+
 
 
