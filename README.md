@@ -1,5 +1,7 @@
 # AWS_CloudFormation-Jenkins
 
+**Configure Jenkins to use GitHub repository**
+
 This contains CloudFormation template for demo use with Jenkins
 
 simplests3cft.json
