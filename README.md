@@ -65,8 +65,6 @@ JSON creates a bucket and automatically assigns a bucket name and outputs the bu
 
 ![image](https://user-images.githubusercontent.com/91480603/217096804-c357329e-62de-4d9e-96e6-7fa1a612ec8c.png)
 
-**cftdemo-jenkinsplugin**
-
 2. Configure **Source Code Management**
 
 ![image](https://user-images.githubusercontent.com/91480603/217097167-90aa8284-7d11-4eff-8567-be60433d37c2.png)
