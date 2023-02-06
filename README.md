@@ -27,7 +27,7 @@ simplests3cft.json
 
 JSON creates a bucket and automatically assigns a bucket name and outputs the bucket name
 
-# Create Personal Access Token
+# Create Personal Access Token in GitHub
 
 **Note** GitHub deprecated password-based authentication August 31st 2021
 
@@ -46,7 +46,7 @@ JSON creates a bucket and automatically assigns a bucket name and outputs the bu
 
 ![image](https://user-images.githubusercontent.com/91480603/217094152-c6de5eaf-ffab-490b-b960-8b9d300d1321.png)
 
-# Configure Jenkins to use GitHib
+# Configure Jenkins to use GitHub
 
 1. Jenkins > Dashboard > Manage Jenkins > Configure System
 2. **GitHub** **+Add** *Jenkins* **Kind** is **Secret text** 
