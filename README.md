@@ -57,6 +57,25 @@ JSON creates a bucket and automatically assigns a bucket name and outputs the bu
 
 ![image](https://user-images.githubusercontent.com/91480603/217095533-49f34318-6053-4d7b-a76f-b5ec34b6656e.png)
 
+# Create a job
+
+![image](https://user-images.githubusercontent.com/91480603/217096661-49b97516-4ece-4ba0-ae38-643b8cb01e1f.png)
+
+1. Enter a item name - Freestyle project
+
+![image](https://user-images.githubusercontent.com/91480603/217096804-c357329e-62de-4d9e-96e6-7fa1a612ec8c.png)
+
+**cftdemo-jenkinsplugin**
+
+2. Configure **Source Code Management**
+
+![image](https://user-images.githubusercontent.com/91480603/217097167-90aa8284-7d11-4eff-8567-be60433d37c2.png)
+
+For credentials use **Kind** - **Username with password** - use username and password use Personal Access Token
+
+![image](https://user-images.githubusercontent.com/91480603/217097565-a6606fb1-6e8d-49dd-8b29-5a12c9240d56.png)
+
+
 
 
 
