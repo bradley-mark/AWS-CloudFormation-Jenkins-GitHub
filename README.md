@@ -79,6 +79,7 @@ For credentials use **Kind** - **Username with password** - password = Personal 
 
 ![image](https://user-images.githubusercontent.com/91480603/217098496-0973a610-d14f-47b1-be90-3fbdbf7d24bb.png)
 
+![image](https://user-images.githubusercontent.com/91480603/217098834-0e18d189-6d05-4ce5-819b-b4377f0e5f50.png)
 
 
 
