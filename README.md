@@ -102,6 +102,8 @@ For credentials use **Kind** - **Username with password** - password = Personal 
 
 ![image](https://user-images.githubusercontent.com/91480603/217099971-46e9882c-e253-4bab-9689-5fc76dcf472d.png)
 
+![image](https://user-images.githubusercontent.com/91480603/217100200-928b0c46-76f3-4978-904f-78823a6fd968.png)
+
 
 
 
