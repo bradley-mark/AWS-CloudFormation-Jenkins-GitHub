@@ -71,6 +71,14 @@ JSON creates a bucket and automatically assigns a bucket name and outputs the bu
 
 For credentials use **Kind** - **Username with password** - password = Personal Access Token
 
+3. Configure **Build Environment**
+
+![image](https://user-images.githubusercontent.com/91480603/217098363-fd0725db-544c-46c3-9ed7-235ff4a378bb.png)
+
+**Note for AWS Access Key and AWS Secret Key use credentials for IAM user with only access to CloudFormation and S3**
+
+![image](https://user-images.githubusercontent.com/91480603/217098496-0973a610-d14f-47b1-be90-3fbdbf7d24bb.png)
+
 
 
 
