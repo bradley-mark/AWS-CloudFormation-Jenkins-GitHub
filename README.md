@@ -122,9 +122,12 @@ For credentials use **Kind** - **Username with password** - password = Personal 
 
 **GitHub**
 
+1. Login to **GitHub**
+2. **Repository folder > Settings > Webhooks > Add webhook**
+3. **Payload URL** enter Jenkins server dashboard address with **/github-webhook/**
+4. **Content type** application/json
+5. **Add webhook**
 
+![image](https://user-images.githubusercontent.com/91480603/217273773-70e05f83-56f3-4d09-a4b8-12573bd4926b.png)
 
-
-
-
-
+Any JSON code change within GitHub will auto trigger a build request in Jenkins
