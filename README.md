@@ -110,6 +110,19 @@ For credentials use **Kind** - **Username with password** - password = Personal 
 
 # Automatic Submit of Jenkins from Git
 
+**Jenkins**
+
+1. Login to **Jenkins**
+2. **Job > Configure > Build Triggers**
+3. Check **GitHub hook trigger for GITScm polling**
+
+![image](https://user-images.githubusercontent.com/91480603/217271620-0e5cbfc4-65c9-4e6c-b362-44dcb609d621.png)
+
+4. Save
+
+**GitHub**
+
+
 
 
 
