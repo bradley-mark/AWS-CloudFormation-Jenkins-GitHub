@@ -108,6 +108,7 @@ For credentials use **Kind** - **Username with password** - password = Personal 
 
 ![image](https://user-images.githubusercontent.com/91480603/217100532-9d2d8525-8a2d-46e0-b5d2-b75290690d22.png)
 
+# Automatic Submit of Jenkins from Git
 
 
 
