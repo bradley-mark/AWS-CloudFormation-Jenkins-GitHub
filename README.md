@@ -1,6 +1,6 @@
 # AWS_CloudFormation-Jenkins
 
-![image](https://user-images.githubusercontent.com/91480603/217643972-65748d1e-ad72-4e93-9030-e105d2a09ee7.png)
+![image](https://user-images.githubusercontent.com/91480603/217654398-11eaa7a9-6e6c-4260-9eb0-35629ea698ef.png)
 
 **Configure Jenkins to use GitHub repository**
 
